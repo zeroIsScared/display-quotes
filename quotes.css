@@ -1,0 +1,30 @@
+body {
+  background-image: url("/simon-berger-9GL6YGDJ-tw-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: 100vw;
+}
+
+div {
+  margin: 150px;
+}
+
+p {
+  text-align: center;
+  text-decoration: wavy;
+  font-style: oblique;
+  font-size: 40px;
+  color: #0e0008;
+  font-weight: 900;
+}
+
+#btn {
+  width: 220px;
+  height: 40px;
+  margin: auto;
+  display: block;
+  border-radius: 15px;
+  background-color: #521a1a;
+  border: #bde8cd;
+  color: #bde8cd;
+  font-weight: bold;
+}
